@@ -6,11 +6,11 @@ public class Duck extends Bird {
     }
 
     public String swim() {
-        return "The duck can swim!";
+        return "The duck swims in the Everglades!";
     }
 
 
     public String makeSound() {
-        return "Quack!";
+        return "Quack Quack!";
     }
 }
