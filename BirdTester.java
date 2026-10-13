@@ -11,8 +11,6 @@
 // The Duck class should also have a method called makeSound() 
 // that returns a String "Quack Quack!".
 
- 
-
 import java.util.Scanner;
 
 // This class is used to test the Bird and Duck classes. It creates two 
